@@ -1,6 +1,0 @@
-package frame;
-
-/**
- * @author Will
- *
- */

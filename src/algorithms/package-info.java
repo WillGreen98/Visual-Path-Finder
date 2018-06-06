@@ -1,6 +1,0 @@
-package algorithms;
-
-/**
- * @author Will
- *
- */
